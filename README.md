@@ -18,6 +18,17 @@ A powerful machine learning system that automatically classifies email **sentime
   Integrate the classifier into your applications or services with a simple HTTP API  
 
 ---
+## 🖼️ UI Preview
+
+![Screenshot of Email Sentiment Analysis interface](assets/Screenshot1input.png)  
+![Screenshot of Email Sentiment Analysis interface](assets/Screenshot1output.png)  
+![Screenshot of Email Sentiment Analysis interface](assets/Screenshot2input.png)  
+![Screenshot of Email Sentiment Analysis interface](assets/Screenshot2output.png)  
+![Screenshot of Email Sentiment Analysis interface](assets/Screenshot3input.png) 
+![Screenshot of Email Sentiment Analysis interface](assets/Screenshot3output.png)  
+
+
+---
 
 ## Installation
 
